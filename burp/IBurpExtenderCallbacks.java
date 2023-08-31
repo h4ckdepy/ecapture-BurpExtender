@@ -1085,4 +1085,5 @@ public interface IBurpExtenderCallbacks
     void registerMenuItem(
             String menuItemCaption,
             IMenuItemHandler menuItemHandler);
+
 }
